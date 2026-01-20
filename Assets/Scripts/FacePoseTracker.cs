@@ -15,7 +15,7 @@ public class FacePoseTracker : MonoBehaviour
 
     public float smoothTime = 0.12f;
 
-    public float maxOffset;
+    //private float maxOffset;
 
     private Vector3 faceLocal;
     private Vector3 velocity;
